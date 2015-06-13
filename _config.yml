@@ -1,0 +1,13 @@
+# Site settings
+title: Quiver
+email: r.d.flynn@gre.ac.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Quiver - UE4 Demo for UoG students
+baseurl: "/Quiver" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: rdflynn
+github_username:  rdflynn
+
+# Build settings
+markdown: redcarpet
+pygments: true
