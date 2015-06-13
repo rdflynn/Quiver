@@ -10,4 +10,4 @@ github_username:  rdflynn
 
 # Build settings
 markdown: redcarpet
-pygments: true
+highlighter: pygments
