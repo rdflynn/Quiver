@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Next Post"
+date:   2015-06-13 17:15:53
+categories: quiver update
+---
+Checking if the auto generate posting works.
